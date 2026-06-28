@@ -40,7 +40,7 @@ Netflix-Clone/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/LokitaGoyal/Netflix-Clone.git
 ```
 
 2. Open the project folder.
